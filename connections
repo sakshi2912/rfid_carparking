@@ -1,0 +1,18 @@
+IR sensors (4) :
+  VCC- 5V
+  GND- GND
+  OUT- 2,3,4,6
+  
+OLED 
+  VCC- 5V
+  GND- GND
+  SDA- A4
+  SCL- A5
+  
+RFID reader :
+   RST - 9
+   SDA - 10
+   MOSI- 11
+   MISO- 12 
+   SCK - 13
+   
