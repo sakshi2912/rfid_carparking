@@ -13,8 +13,8 @@ Possible errors :
 2. IR sensors not detectind properly :
    Caliberate the IR sensor using the potentiometer.
 3. Servo motor twitching /not working :
-   a. Insufficient power supply. Servo motor requires 5V of supply.
-   b. Gnd and +5 interchanged
+   1. Insufficient power supply. Servo motor requires 5V of supply.
+   2. Gnd and +5 interchanged
    DO NOT POWER SERVO MOTORS WITH LITHIUM ION BATTERIES 
 
 
