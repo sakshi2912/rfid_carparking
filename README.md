@@ -15,7 +15,7 @@ Possible errors :
 3. Servo motor twitching /not working :
    1. Insufficient power supply. Servo motor requires 5V of supply.
    2. Gnd and +5 interchanged
-   DO NOT POWER SERVO MOTORS WITH LITHIUM ION BATTERIES 
+DO NOT POWER SERVO MOTORS WITH LITHIUM ION BATTERIES 
 
 
 Working model : https://youtu.be/TyeHmX3Uz6s
