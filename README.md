@@ -10,7 +10,7 @@ Possible errors :
 1. OLED not displaying anything : 
    Check the OLED address , try with the following two addresses - '0x3C' and '0X3F'
    Try powering the OLED with 3.3V if not 5V
-2. IR sensors not detectind properly :
+2. IR sensors not detecting properly :
    Caliberate the IR sensor using the potentiometer.
 3. Servo motor twitching /not working :
    1. Insufficient power supply. Servo motor requires 5V of supply.
